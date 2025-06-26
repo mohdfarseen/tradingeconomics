@@ -5,7 +5,7 @@ This web application was developed as a technical task for Trading Economics. It
 The application is built with Python and Flask on the backend, and the frontend is styled with modern CSS for a responsive and engaging user experience.
 
 ![App Screenshot](finalresult.png)
-*(Note: Please replace `screenshot.png` with an actual screenshot of the running application)*
+
 
 ## Key Features
 
@@ -32,10 +32,10 @@ Follow these steps to run the application locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourGitHubUsername/tradingeconomics.git
+    git clone https://github.com/mohdfarseen/tradingeconomics.git
     cd tradingeconomics/gdp-comparison-app
     ```
-    *(Replace `YourGitHubUsername` with your actual GitHub username)*
+   
 
 2.  **Install dependencies:**
     It is recommended to use a virtual environment.
@@ -66,6 +66,7 @@ gdp_comparison_app/
 ├── app.py              # Main Flask application, handles routing and data fetching
 ├── templates/
 │   └── index.html             # Frontend Jinja2 template for UI, chart, and table
+└── finalresult.png
 └── GDP_Comparison_App.mp4     # Vedio of the application running
 ├── README.md           # This file
 └── screenshot1.png      # A screenshot of the running application
