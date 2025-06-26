@@ -59,7 +59,7 @@ Follow these steps to run the application locally.
 5.  **View in browser:**
     Open your web browser and navigate to `http://127.0.0.1:5000`.
 
-## Project Structure
+## 📁 Project Structure
 
 
 gdp_comparison_app/
