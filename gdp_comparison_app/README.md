@@ -4,7 +4,7 @@ This web application was developed as a technical task for Trading Economics. It
 
 The application is built with Python and Flask on the backend, and the frontend is styled with modern CSS for a responsive and engaging user experience.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](finalresult.png)
 *(Note: Please replace `screenshot.png` with an actual screenshot of the running application)*
 
 ## Key Features
