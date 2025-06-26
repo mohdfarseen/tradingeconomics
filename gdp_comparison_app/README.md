@@ -63,14 +63,14 @@ Follow these steps to run the application locally.
 
 
 gdp_comparison_app/
-├── app.py              # Main Flask application, handles routing and data fetching
+├── app.py # Main Flask application, handles routing and data fetching
 ├── templates/
-│   └── index.html             # Frontend Jinja2 template for UI, chart, and table
-└── finalresult.png
-└── GDP_Comparison_App.mp4     # Vedio of the application running
-├── README.md           # This file
-└── screenshot1.png      # A screenshot of the running application
-└── screenshot2.png 
-└── screenshot3.png 
-└── screenshot4.png 
-└── screenshot5.png 
+│ └── index.html # Frontend Jinja2 template for UI, chart, and table
+├── finalresult.png # Final result screenshot of the app
+├── GDP_Comparison_App.mp4 # Video of the application running
+├── README.md # This file
+├── screenshot1.png # A screenshot of the running application
+├── screenshot2.png
+├── screenshot3.png
+├── screenshot4.png
+└── screenshot5.png
