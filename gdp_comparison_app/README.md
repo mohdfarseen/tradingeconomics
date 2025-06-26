@@ -61,7 +61,11 @@ Follow these steps to run the application locally.
 
 ## 📁 Project Structure
 
+Visual overview:
 
+![Project Structure](project-structure.png)
+
+Text view:
 gdp_comparison_app/
 ├── app.py # Main Flask application, handles routing and data fetching
 ├── templates/
