@@ -33,7 +33,7 @@ Follow these steps to run the application locally.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/mohdfarseen/tradingeconomics.git
-    cd tradingeconomics/gdp-comparison-app
+    cd tradingeconomics/gdp_comparison_app
     ```
    
 
