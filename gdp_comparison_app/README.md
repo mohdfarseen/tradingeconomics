@@ -61,6 +61,4 @@ Follow these steps to run the application locally.
 
 ## 📁 Project Structure
 
-Visual overview:
-
-![Project Structure](Project Structure.png)
+![Project Structure](Project-Structure.png)
